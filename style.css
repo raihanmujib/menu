@@ -1,0 +1,146 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.container{
+	width: 1170px;
+	margin: 0 auto; 
+
+
+}
+
+.menu{
+	background: rgba(3, 169, 244, 0.29);
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden
+}
+li{
+	float: left;
+    margin-right: 10px;
+}
+a{ 
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    text-transform: uppercase;
+    color: #065390;
+
+}
+a:hover{
+    background: rgba(33, 150, 243, 0.59);
+    color: #fff;
+
+}
+.main-content{
+	width: 100%;
+
+}
+.left{
+	width: 70%;
+/*	height: 600px;*/
+/*	background: red;*/
+	float: left;
+}
+.right{
+	width: 30%;
+/*	height: 600px;*/
+/*	background: yellow;*/
+	float: left;
+}
+.first-img{
+	width: 100%;
+	height: 200px;
+/*	background: red;*/
+
+}
+.one{
+	width: 70%;
+/*	background: red;*/
+	float: left;
+	height: 200px;
+}
+.two{
+	width: 30%;
+/*	background: yellow;*/
+	float: left;
+	height: 200px;
+
+}
+.second-img{
+	width: 100%;
+	height: 200px;
+/*	background: green;
+*/
+}
+.three{
+	width: 30%;
+/*	background: yellow;*/
+	float: left;
+	height: 200px;
+
+}
+.four{
+	width: 70%;
+/*	background: green;*/
+	float: left;
+	height: 200px;
+
+}
+.third-img{
+    width: 100%;
+	height: 200px;
+/*	background: blue;*/
+
+}
+.five{
+	width: 33.33%;
+	height: 200px;
+/*	background: blue;*/
+	float: left;
+
+}
+.six{
+	width: 33.33%;
+	height: 200px;
+/*	background: red;*/
+	float: left;
+
+}
+.seven{
+	width: 33.33%;
+	height: 200px;
+/*	background: yellow;*/
+	float: left;
+
+}
+.fourth-img{
+	width: 100%;
+	height: 300px;
+/*	background: blue;*/
+
+}
+.fifth-img{
+	width: 100%;
+	height: 300px;
+/*	background: red;*/
+
+}
+.footer{
+	width: 100%;
+	height: 50px;
+	background: #03A9F4;
+	overflow: hidden;
+	text-align: center;
+}
+img{
+	max-width: 100%;
+	width: 100%;
+	height: 100%;
+}
+
+
